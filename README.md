@@ -24,4 +24,11 @@ Github Repo URL: https://github.com/ttaylor95/brewery-database
 
 2. You are able to click on any of the breweries listed and it will populate information pertaining to that specific brewery.
 
-3. The button function at the top allows you to reset and show the entire list of breweries again. 
+3. The button function at the top allows you to reset and show the entire list of breweries again.  
+
+4. Option to toggle between dark and light mode at the bottom. 
+
+
+## Images Used
+
+https://i0.wp.com/post.greatist.com/wp-content/uploads/sites/2/2021/04/298857-Crash-Course-A-Beginners-Guide-to-Beer-1296x728-Header.png?w=1575
