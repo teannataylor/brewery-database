@@ -1,0 +1,41 @@
+#header {
+  height:auto;
+}
+
+
+#header h1 {
+  margin: 0%;
+  color:#000000;
+  text-align: center;  
+}
+
+
+body {
+  background-color: rgb(240, 101, 198);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #fa9fd3; 
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: #fa9fd3; 
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background:  #fa9fd3; 
+}
+
+.bold {
+  color: rgb(0, 0, 0);
+}
+.titles {
+  color: rgb(163, 25, 159);
+}
