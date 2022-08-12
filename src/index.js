@@ -1,5 +1,3 @@
-// asynchronous event; DOMContentLoaded (1)
-
 const baseURL = "https://api.openbrewerydb.org"
 
 window.addEventListener('DOMContentLoaded', () =>{
@@ -71,3 +69,10 @@ async function getBeer(){
     let data = await res.json()
     return data
 }
+
+
+let darkToggle = document.querySelector('#darkToggle');
+
+darkToggle.addEventListener('change', ()=> {
+  document.body.classList.toggle('dark');
+});
